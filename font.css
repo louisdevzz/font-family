@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lakki+Reddy&display=swap');
+
+*{
+    font-family: Lakki Reddy,cursive;
+    text-shadow: 0 4px 4px #00000040;
+    text-transform: lowercase;
+}
